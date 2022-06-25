@@ -1,2 +1,1 @@
-[---> Live Page <---](https://surpun.github.io/8.Build-a-feature/)
-
+[---> Live Page <---](https://surpun.github.io/Guess-my-number-game/)
